@@ -1,11 +1,10 @@
 import React from 'react'
 
 const App = () => {
-  return (
-    <>
+  return (<>
     <div>App</div>
-    <div>Vikas</div>
-    <h2>{5+5}</h2>
+    <h2>praveen</h2>
+    <p>{5+2}</p>
     </>
   )
 }
