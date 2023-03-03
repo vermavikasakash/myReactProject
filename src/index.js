@@ -1,5 +1,6 @@
 import React from "react";
 import {createRoot} from "react-dom/client";
-import App from './App';
 
-createRoot(document.getElementById("root")).render(<App/>);
+import Ekk from "./react assignment/Class component/Ekk";
+
+createRoot(document.getElementById("root")).render(<Ekk/>);
