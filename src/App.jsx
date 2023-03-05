@@ -1,11 +1,10 @@
 import React from "react";
-
-import Saavn from './component/Saavn';
+import Ajio from './component/Ajio';
 
 function App(){
     return(
         
-<Saavn/>
+<Ajio/>
     )
 }
 export default App

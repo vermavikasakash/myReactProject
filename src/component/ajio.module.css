@@ -1,0 +1,15 @@
+nav{
+    border: 2px solid red;
+}
+
+#id b{
+    color: black;
+    height: 300px;
+}
+#id1{display: flex;}
+#id1 ul{ list-style: none;
+display: flex;}
+#id1 ul li{ width: 150px;
+
+}
+#id1 ul li a{text-decoration: none;}
