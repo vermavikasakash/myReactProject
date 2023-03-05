@@ -1,7 +1,11 @@
 import React from "react";
+
+import Saavn from './component/Saavn';
+
 function App(){
     return(
-        <h1>FunctionBasedComponent</h1>
+        
+<Saavn/>
     )
 }
 export default App

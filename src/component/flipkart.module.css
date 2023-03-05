@@ -1,0 +1,20 @@
+nav{border: 2px solid red;
+background-color: aqua;
+display: flex;}
+input{
+    width: 175px;
+}
+#IdBlock{padding-top: 15px;}
+#IdBlock1 ul{list-style: none;
+    display: flex;
+    
+}
+#IdBlock1 ul li {
+    justify-content: space-around;
+    width: 100px;
+    margin-right: 50px;
+}
+#IdBlock1 ul li a{
+    text-decoration: none;
+    
+}

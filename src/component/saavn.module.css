@@ -1,0 +1,31 @@
+nav{
+    background-color: rgba(0, 0, 0, 0.637);
+}
+#div1 ul{display: flex;
+    list-style: none;
+    }
+    #div1 ul li{
+        width: 300px;
+        }
+#div1 ul li a{
+        text-decoration: none;
+        color: white;
+        font-size: 50px;
+        margin-left: 180px;
+         }
+         #div1 ul li a input{
+          height: 40px;
+          margin-top: auto;
+         }
+ #div2 ul{display: flex;
+    width: 100px;
+  }
+  #div2 ul li{
+    list-style: none;
+  }
+  #div2 ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+    margin-left: 175px;
+  }

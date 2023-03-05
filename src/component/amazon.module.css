@@ -1,0 +1,18 @@
+#idBlock1{ color: rgba(0, 38, 255, 0.671);}
+
+input     {color:black;
+          width: 250px;}  
+nav      {display: flex;
+          height: 75px;
+          align-content: center;
+          background-color: rgba(0, 0, 0, 0.192);
+          align-items: center;
+          border: 2px solid rgba(16, 16, 99, 0.349);
+}
+   /* #idBlock{margin-right: -30px;} */
+#idBlock ul        {display: flex;
+                   justify-content: space-around; 
+                   text-align: right; }
+#idBlock ul li     { list-style: none;
+                      width: 200px;   }
+#idBlock ul li a      { text-decoration: none;}
