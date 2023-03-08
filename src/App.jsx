@@ -1,10 +1,11 @@
-import React from "react";
-import Ajio from './component/Ajio';
-
-function App(){
+import React  from "react"
+import Obj from './component/Obj';
+const App=()=>{
     return(
-        
-<Ajio/>
+        <>
+       <Obj data={{username:"vikas" ,password:"1245"}}/>
+       
+        </>
     )
 }
 export default App
