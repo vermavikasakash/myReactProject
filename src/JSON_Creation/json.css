@@ -1,0 +1,17 @@
+img{
+    height: 200px;
+    width: 250px;
+}
+.sub{
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+.main{
+    display: flex;
+}
+.main1{
+    display: flex;
+}
