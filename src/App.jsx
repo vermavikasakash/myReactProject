@@ -1,13 +1,10 @@
 import React from "react"
-import Movie from "./JSON_Creation/Movie"
-import Json from "./JSON_Creation/userdata.json"
-import "./JSON_Creation/json.css"
+import Course from './Course';
+
 const App=()=>{
-    return(
-        <>
-        
-        <Movie payload ={Json}/>
-        </>
-    )
+    return(<>
+    <Course details={{courseName:"Java Full Stack",courseDuration:"6 months",courseAvial:true}} />
+    
+    </>)
 }
-export default App
+export default App;
