@@ -1,0 +1,16 @@
+#mainDiv{
+    border: 2px solid red;
+    width: 55%;
+}
+h1{ padding-left: 250px;
+    /*border: 2px solid green;*/
+    color: blue;
+font-size: 50px;}
+#count button{color: white;
+    background-color: black;
+    height: 50px;
+    width: 180px;
+    font-size: 30px;
+    border-radius: 5%;
+   
+   }
