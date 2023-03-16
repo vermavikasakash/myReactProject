@@ -1,6 +1,6 @@
 #mainDiv{
-    border: 2px solid red;
-    width: 55%;
+    border: 5px dashed red;
+    width: 40%;
 }
 h1{ padding-left: 250px;
     /*border: 2px solid green;*/
