@@ -14,7 +14,7 @@ class App extends Component{
     render(){
         return(<>
         <h1>{this.state.username}</h1>
-        <button>{Change}</button>
+        <button>Change</button>
         </> )
     }
 }
